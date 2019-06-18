@@ -25,3 +25,4 @@
 3. DB 관리자(DataBase Administrator) : 데이터베이스 설제와 조작에 대한 책임, 행정적 책임, 시스템 감시 및, 성능 분석
 4. Data 관리자(Data Administrator) : 조직내에서 데이터에 대한 정의, 체계화, 감독 및 보안 업무를 담당
 5. Data 설계자(Data Architect) : 조직의 업무 수행에 필요한 데이터의 구조를 체계적으로 정의하는 사람
+
